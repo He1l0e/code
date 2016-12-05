@@ -1,0 +1,11 @@
+
+[config]
+host = 127.0.0.1
+user=root
+port=3306
+db=card
+passwd=stT9D7
+
+
+key=aiyou123456
+log=/data/server/cgi-bin/log/card
